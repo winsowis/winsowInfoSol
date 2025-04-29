@@ -1,0 +1,52 @@
+[14-Dec-2022 10:19:30 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/pzfkp4geyfuk/public_html/mail.php on line 2
+[14-Dec-2022 10:26:01 UTC] PHP Parse error:  syntax error, unexpected '@' in /home/pzfkp4geyfuk/public_html/mail.php on line 10
+[14-Dec-2022 03:31:04 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 03:36:14 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 03:51:45 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 04:02:35 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 04:14:34 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 04:22:20 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 04:22:26 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 04:29:15 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 04:35:41 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 04:39:36 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 3525
+[14-Dec-2022 14:34:04 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:34:04 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:49:13 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:49:13 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:49:17 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:49:17 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:49:30 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:49:30 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:52:01 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 14:52:01 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:24:09 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:24:09 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:36:35 UTC] PHP Warning:  require(PHPMailer/class.mail_test.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:36:35 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.mail_test.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:46:38 UTC] PHP Warning:  require(PHPMailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:46:38 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer/class.phpmailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:48:28 UTC] PHP Warning:  require(PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:48:28 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:48:31 UTC] PHP Warning:  require(PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[14-Dec-2022 15:48:31 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 2
+[11-Jan-2023 16:03:17 UTC] PHP Warning:  require(PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[11-Jan-2023 16:03:17 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[11-Jan-2023 09:03:29 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/mail_test.php on line 7049
+[11-Jan-2023 09:16:51 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7121
+[11-Jan-2023 09:26:52 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7121
+[11-Jan-2023 09:37:53 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7121
+[11-Jan-2023 09:44:47 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7121
+[11-Jan-2023 09:51:31 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7121
+[11-Jan-2023 09:53:13 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7121
+[11-Jan-2023 09:56:44 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7126
+[11-Jan-2023 09:56:49 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7126
+[11-Jan-2023 09:57:32 America/Phoenix] PHP Notice:  Undefined index: OS in /home/pzfkp4geyfuk/public_html/contact.php on line 7126
+[11-Jan-2023 17:53:32 UTC] PHP Warning:  require(PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[11-Jan-2023 17:53:32 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[11-Jan-2023 17:53:38 UTC] PHP Warning:  require(PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[11-Jan-2023 17:53:38 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[11-Jan-2023 20:51:32 UTC] PHP Warning:  require(PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[11-Jan-2023 20:51:32 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[12-Jan-2023 02:27:30 UTC] PHP Warning:  require(PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php): failed to open stream: No such file or directory in /home/pzfkp4geyfuk/public_html/send.php on line 3
+[12-Jan-2023 02:27:30 UTC] PHP Fatal error:  require(): Failed opening required 'PHPMailer-PHPMailer-0d99f1d/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pzfkp4geyfuk/public_html/send.php on line 3
